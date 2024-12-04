@@ -43,7 +43,7 @@ Before running the app, ensure you have the following:
 Follow these steps to set up and run the project:
 
 ### 1️⃣ Clone the Repository
-    ```bash
+  
     git clone https://github.com/YourUsername/WeatherApp.git
     cd WeatherApp
 
